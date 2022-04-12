@@ -1,0 +1,22 @@
+{
+  "name": "BottomToast",
+  "version": "0.1.0",
+  "summary": "A short description of BottomToast.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mohdshadab.siddique/BottomToast",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mohdshadab.siddique": "mohdshadab.siddique@vectoscalar.com"
+  },
+  "source": {
+    "git": "https://github.com/mohdshadab.siddique/BottomToast.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BottomToast/Classes/**/*"
+}

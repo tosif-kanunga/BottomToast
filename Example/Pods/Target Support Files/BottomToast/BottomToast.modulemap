@@ -1,0 +1,6 @@
+framework module BottomToast {
+  umbrella header "BottomToast-umbrella.h"
+
+  export *
+  module * { export * }
+}
