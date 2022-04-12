@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'BottomToast_Example' do
+  pod 'BottomToast', :path => '../'
+
+  target 'BottomToast_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
